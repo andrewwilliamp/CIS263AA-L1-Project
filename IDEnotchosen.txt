@@ -1,1 +1,5 @@
+Andrew Palmer
+CIS263AA 24929
+
+When deciding on my IDE, I wanted to learn an IDE that is as close to industry standard as possible. There are a few other factors I considered in choosing my IDE: User friendliness, specialized capabilities for Java, and free to use. When I finished the Java Level I course I used jGRASP, which was definitely easy to use and understand. However, because of its simplicty I felt that I was missing out on other more-capable IDEs. This is why I decided not to use jGRASP for this course.
 
