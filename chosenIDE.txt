@@ -1,1 +1,4 @@
+Andrew Palmer
+CIS263AA 24929
 
+I chose the Intellij IDE for Java programming in this course. Since both Intellij and Eclipse are often described as the industry standards for Java IDEs, I knew I couldn't go wrong with either choice. However, there are a few reasons why I chose Intellij: it has a free education version, was built specifically for Java programming, and has a more modern interface. I may try Eclipse at some point throughout the semester or keep it as a backup, but I'm excited to use Intellij and learn as much as I can. 
