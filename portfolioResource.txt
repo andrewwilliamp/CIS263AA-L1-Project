@@ -1,0 +1,8 @@
+Andrew Palmer
+CIS262AA 24929
+
+Using GitHub for Portfolio Projects
+
+I am very excited to being using GitHub throughout this course because I have little experience in it currently. To give some background, I work as a BI Developer/Lead Configuration Expert in my company's project management software, but my interests lie in backend, infrastructure, and/or data engineering. I plan to use GitHub to store all of my Java coursework, but I also would like to use it for small to medium-sized ETL & orchestration projects. 
+
+One idea I've been entertaining is completing an end-to-end ETL project that extracts data from a public source (whether through API, webscraping, or SQL datasets), normalize and transform the data, then load it into a BI application for reporting and analytics. I could potentially add in a bit of light machine learning algorithms to generate additional insights, however data science is not my end-goal currently. Once I have this project store in GitHub, I'd like to create a website for my past and future projects, which would further demonstrate my development skills. 
